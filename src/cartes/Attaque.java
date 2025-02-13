@@ -1,8 +1,8 @@
 package cartes;
 
-public class attaque extends Bataille {
+public class Attaque extends Bataille {
 
-	public attaque(Type type) {
+	public Attaque(Type type) {
 		super(type);
 		
 	}
